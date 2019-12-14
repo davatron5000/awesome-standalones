@@ -28,7 +28,7 @@ Github has a bundle of elements that extend the native `<time>` element.
 
 ## Custom Elements
 
-Freuquently-solved problems in web component form.
+Frequently-solved problems in web component form.
 
 - [`<clipboard-copy>`](https://github.com/github/clipboard-copy-element)
 - [`<input-knob>`](https://github.com/GoogleChromeLabs/input-knob)
