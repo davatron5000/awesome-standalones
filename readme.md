@@ -7,6 +7,7 @@
 
 - [Element Extensions](#element-extensions)
 - [Custom Elements](#custom-elements)
+- [Novelty Elements](#novelty-elements)
 
 
 ## Element Extensions
@@ -38,6 +39,9 @@ Frequently-solved problems in web component form.
 - [`<task-lists>`](https://github.com/github/task-lists-element)
 - [`<two-up>`](https://github.com/GoogleChromeLabs/two-up)
 
+## Novelty Elements
+
+- [`<spacer-gif>`](https://github.com/erikkroes/spacer-gif)
 
 ## Contribute
 
