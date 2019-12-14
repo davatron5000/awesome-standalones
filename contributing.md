@@ -8,12 +8,14 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Link should look like this:  
+    ```
+    [`<element-name>`](http://url-of-repo)
+    ```
+- If it's a significant change, please file an issue to discuss first
+- And don't forget to check other PRs for duplicates
 
 Thank you for your suggestions!
-
 
 ## Updating your PR
 
