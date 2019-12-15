@@ -33,12 +33,13 @@ Frequently-solved problems in web component form.
 
 - [`<clipboard-copy>`](https://github.com/github/clipboard-copy-element)
 - [`<input-knob>`](https://github.com/GoogleChromeLabs/input-knob)
+- [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed)
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer)
 - [`<pinch-zoom>`](https://github.com/GoogleChromeLabs/pinch-zoom)
+- [`<range-slider>`](https://github.com/andreruffert/range-slider-element)
 - [`<tab-container>`](https://github.com/github/tab-container-element)
 - [`<task-lists>`](https://github.com/github/task-lists-element)
 - [`<two-up>`](https://github.com/GoogleChromeLabs/two-up)
-- [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed)
 
 ## Novelty Elements
 
