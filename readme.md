@@ -38,6 +38,7 @@ Frequently-solved problems in web component form.
 - [`<tab-container>`](https://github.com/github/tab-container-element)
 - [`<task-lists>`](https://github.com/github/task-lists-element)
 - [`<two-up>`](https://github.com/GoogleChromeLabs/two-up)
+- [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed)
 
 ## Novelty Elements
 
