@@ -41,6 +41,7 @@ Frequently-solved problems in web component form.
 - [`<task-lists>`](https://github.com/github/task-lists-element)
 - [`<two-up>`](https://github.com/GoogleChromeLabs/two-up)
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle)
+- [`<html-include>`](https://www.npmjs.com/package//html-include-element)
 
 ## Novelty Elements
 
