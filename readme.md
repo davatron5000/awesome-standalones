@@ -43,6 +43,9 @@ Frequently-solved problems in web component form.
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle)
 - [`<katex-display>` and `<katex-inline>`](https://www.npmjs.com/package/katex-elements)
 - [`<html-include>`](https://www.npmjs.com/package//html-include-element)
+- [`<wc-menu-button>`](https://github.com/wes566/wc-menu-button)
+- [`<side-drawer>`](https://github.com/wes566/side-drawer)
+- [`<infinite-carousel-wc>`](https://github.com/wes566/infinite-carousel-wc)
 
 ## Novelty Elements
 
