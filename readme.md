@@ -43,6 +43,7 @@ Frequently-solved problems in web component form.
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle)
 - [`<katex-display>` and `<katex-inline>`](https://www.npmjs.com/package/katex-elements)
 - [`<html-include>`](https://www.npmjs.com/package//html-include-element)
+- [`<aeon-datepicker>`](https://github.com/lamplightdev/aeon)
 
 ## Novelty Elements
 
