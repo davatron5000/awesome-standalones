@@ -44,6 +44,7 @@ Frequently-solved problems in web component form.
 - [`<katex-display>` and `<katex-inline>`](https://www.npmjs.com/package/katex-elements)
 - [`<html-include>`](https://www.npmjs.com/package//html-include-element)
 - [`<pwa-install>`](https://github.com/pwa-builder/pwa-install)
+- [`<l-i>`](https://github.com/lekoala/last-icon)
 
 ## Novelty Elements
 
