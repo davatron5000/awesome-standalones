@@ -40,6 +40,7 @@ Frequently-solved problems in web component form.
 - [`<tab-container>`](https://github.com/github/tab-container-element)
 - [`<task-lists>`](https://github.com/github/task-lists-element)
 - [`<two-up>`](https://github.com/GoogleChromeLabs/two-up)
+- [`<image-compare>`](https://image-compare-component.netlify.app/)
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle)
 - [`<katex-display>` and `<katex-inline>`](https://www.npmjs.com/package/katex-elements)
 - [`<html-include>`](https://www.npmjs.com/package//html-include-element)
