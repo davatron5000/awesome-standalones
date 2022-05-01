@@ -16,6 +16,7 @@ Web Components that extend or add to an existing semantic element.
 
 - [`<details-dialog>`](https://github.com/github/details-dialog-element)
 - [`<details-menu>`](https://github.com/github/details-menu-element)
+- [`<details-utils>`](https://github.com/zachleat/details-utils)
 - [`<file-drop>`](https://github.com/GoogleChromeLabs/file-drop)
 
 
