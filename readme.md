@@ -45,6 +45,7 @@ Frequently-solved problems in web component form.
 - [`<html-include>`](https://www.npmjs.com/package//html-include-element)
 - [`<pwa-install>`](https://github.com/pwa-builder/pwa-install)
 - [`<l-i>`](https://github.com/lekoala/last-icon)
+- [`<show-password-toggle>`](https://github.com/sunnywalker/show-password-toggle)
 
 ## Novelty Elements
 
