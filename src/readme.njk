@@ -1,0 +1,45 @@
+---
+permalink: /readme.md
+---
+# Awesome Standalones [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of awesome framework-agnostic standalone web components
+
+## Element Extensions
+
+Web Components that extend or add to an existing semantic element.
+{% for tag in standalones %}{% if tag.category == 'extension' %}
+- [`<{{ tag.name }}>`]({{ tag.repo }})
+{%- endif %}{% endfor %}
+
+## `<time>` Elements
+
+Github has a bundle of elements that extend the native `<time>` element.
+{% for tag in standalones %}{% if tag.category == 'time' %}
+- [`<{{ tag.name }}>`]({{ tag.repo }})
+{%- endif %}{% endfor %}
+
+## Custom Elements
+
+Frequently-solved problems in web component form.
+{% for tag in standalones %}{% if tag.category == 'custom' %}
+- [`<{{ tag.name }}>`]({{ tag.repo }})
+{%- endif %}{% endfor %}
+
+## Novelty Elements
+{% for tag in standalones %}{% if tag.category == 'novelty' %}
+- [`<{{ tag.name }}>`]({{ tag.repo }})
+{%- endif %}{% endfor %}
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+Thanks @simevidas for prompting the idea.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Dave Rupert has waived all copyright and
+related or neighboring rights to this work.

@@ -2,14 +2,6 @@
 
 > A curated list of awesome framework-agnostic standalone web components
 
-
-## Contents
-
-- [Element Extensions](#element-extensions)
-- [Custom Elements](#custom-elements)
-- [Novelty Elements](#novelty-elements)
-
-
 ## Element Extensions
 
 Web Components that extend or add to an existing semantic element.
@@ -18,8 +10,7 @@ Web Components that extend or add to an existing semantic element.
 - [`<details-menu>`](https://github.com/github/details-menu-element)
 - [`<file-drop>`](https://github.com/GoogleChromeLabs/file-drop)
 
-
-### `<time>` Elements
+## `<time>` Elements
 
 Github has a bundle of elements that extend the native `<time>` element.
 
@@ -40,8 +31,8 @@ Frequently-solved problems in web component form.
 - [`<tab-container>`](https://github.com/github/tab-container-element)
 - [`<task-lists>`](https://github.com/github/task-lists-element)
 - [`<two-up>`](https://github.com/GoogleChromeLabs/two-up)
-- [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle)
-- [`<katex-display>` and `<katex-inline>`](https://www.npmjs.com/package/katex-elements)
+- [`<dark-mode>`](https://github.com/GoogleChromeLabs/dark-mode-toggle)
+- [`<katex-display>`](https://www.npmjs.com/package/katex-elements)
 - [`<html-include>`](https://www.npmjs.com/package//html-include-element)
 - [`<pwa-install>`](https://github.com/pwa-builder/pwa-install)
 - [`<l-i>`](https://github.com/lekoala/last-icon)

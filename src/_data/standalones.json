@@ -1,0 +1,107 @@
+[
+  {
+    "name": "details-dialog",
+    "category": "extension",
+    "repo": "https://github.com/github/details-dialog-element"
+  },
+  {
+    "name": "details-menu",
+    "category": "extension",
+    "repo": "https://github.com/github/details-menu-element"
+  },
+  {
+    "name": "file-drop",
+    "category": "extension",
+    "repo": "https://github.com/GoogleChromeLabs/file-drop"
+  },
+  {
+    "name": "local-time",
+    "category": "time",
+    "repo": "https://github.com/github/time-elements"
+  },
+  {
+    "name": "relative-time",
+    "category": "time",
+    "repo": "https://github.com/github/time-elements"
+  },
+  {
+    "name": "time-ago",
+    "category": "time",
+    "repo": "https://github.com/github/time-elements"
+  },
+  {
+    "name": "clipboard-copy",
+    "category": "custom",
+    "repo": "https://github.com/github/clipboard-copy-element"
+  },
+  {
+    "name": "input-knob",
+    "category": "custom",
+    "repo": "https://github.com/GoogleChromeLabs/input-knob"
+  },
+  {
+    "name": "lite-youtube",
+    "category": "custom",
+    "repo": "https://github.com/paulirish/lite-youtube-embed"
+  },
+  {
+    "name": "model-viewer",
+    "category": "custom",
+    "repo": "https://github.com/GoogleWebComponents/model-viewer"
+  },
+  {
+    "name": "pinch-zoom",
+    "category": "custom",
+    "repo": "https://github.com/GoogleChromeLabs/pinch-zoom"
+  },
+  {
+    "name": "range-slider",
+    "category": "custom",
+    "repo": "https://github.com/andreruffert/range-slider-element"
+  },
+  {
+    "name": "tab-container",
+    "category": "custom",
+    "repo": "https://github.com/github/tab-container-element"
+  },
+  {
+    "name": "task-lists",
+    "category": "custom",
+    "repo": "https://github.com/github/task-lists-element"
+  },
+  {
+    "name": "two-up",
+    "category": "custom",
+    "repo": "https://github.com/GoogleChromeLabs/two-up"
+  },
+  {
+    "name": "dark-mode",
+    "category": "custom",
+    "repo": "https://github.com/GoogleChromeLabs/dark-mode-toggle"
+  },
+  {
+    "name": "katex-display",
+    "category": "custom",
+    "repo": "https://www.npmjs.com/package/katex-elements"
+  },
+  {
+    "name": "html-include",
+    "category": "custom",
+    "repo": "https://www.npmjs.com/package//html-include-element"
+  },
+  {
+    "name": "pwa-install",
+    "category": "custom",
+    "repo": "https://github.com/pwa-builder/pwa-install"
+  },
+  {
+    "name": "l-i",
+    "category": "custom",
+    "repo": "https://github.com/lekoala/last-icon"
+  },
+  {
+    "name": "spacer-gif",
+    "category": "novelty",
+    "repo": "https://github.com/erikkroes/spacer-gif"
+  }
+]

@@ -8,10 +8,20 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Link should look like this:  
-    ```
-    [`<element-name>`](http://url-of-repo)
-    ```
+- Items should be added like this:
+  ```json
+  {
+    "name": "play-button",
+    "category": "extension",
+    "repo": "https://github.com/daviddarnes/play-button",
+    "url": "https://darn.es/play-button-web-component/",
+    "script": "npm install @daviddarnes/play-button",
+    "snippet": "<play-button><button>Play me</button><audio src='...'></audio></play-button>"
+  }
+  ```
+- Items should always have a `name`, `category` and `repo`
+- `category` can be `extension`, `time`, `custom` or `novelty`
+- `url`, `script` and `snippet` are optional
 - If it's a significant change, please file an issue to discuss first
 - And don't forget to check other PRs for duplicates
 
