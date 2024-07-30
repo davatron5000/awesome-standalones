@@ -1,17 +1,17 @@
 [
   {
     "name": "details-dialog",
-    "category": "extension",
+    "category": "extensions",
     "repo": "https://github.com/github/details-dialog-element"
   },
   {
     "name": "details-menu",
-    "category": "extension",
+    "category": "extensions",
     "repo": "https://github.com/github/details-menu-element"
   },
   {
     "name": "file-drop",
-    "category": "extension",
+    "category": "forms",
     "repo": "https://github.com/GoogleChromeLabs/file-drop"
   },
   {
@@ -31,58 +31,58 @@
   },
   {
     "name": "clipboard-copy",
-    "category": "custom",
+    "category": "utilities",
     "repo": "https://github.com/github/clipboard-copy-element"
   },
   {
     "name": "input-knob",
-    "category": "custom",
+    "category": "forms",
     "repo": "https://github.com/GoogleChromeLabs/input-knob"
   },
   {
     "name": "lite-youtube",
-    "category": "custom",
+    "category": "media",
     "repo": "https://github.com/paulirish/lite-youtube-embed"
   },
   {
     "name": "model-viewer",
-    "category": "custom",
+    "category": "media",
     "repo": "https://github.com/GoogleWebComponents/model-viewer"
   },
   {
     "name": "pinch-zoom",
-    "category": "custom",
+    "category": "media",
     "repo": "https://github.com/GoogleChromeLabs/pinch-zoom"
   },
   {
     "name": "range-slider",
-    "category": "custom",
+    "category": "forms",
     "repo": "https://github.com/andreruffert/range-slider-element"
   },
   {
     "name": "tab-container",
-    "category": "custom",
+    "category": "extensions",
     "repo": "https://github.com/github/tab-container-element"
   },
   {
     "name": "task-lists",
-    "category": "custom",
+    "category": "extensions",
     "repo": "https://github.com/github/task-lists-element"
   },
   {
     "name": "two-up",
-    "category": "custom",
+    "category": "media",
     "repo": "https://github.com/GoogleChromeLabs/two-up"
   },
   {
     "name": "dark-mode",
-    "category": "custom",
+    "category": "design",
     "repo": "https://github.com/GoogleChromeLabs/dark-mode-toggle"
   },
   {
     "name": "katex-display",
     "category": "custom",
-    "repo": "https://www.npmjs.com/package/katex-elements"
+    "repo": "https://github.com/justinfagnani/katex-elements"
   },
   {
     "name": "html-include",
@@ -96,7 +96,7 @@
   },
   {
     "name": "l-i",
-    "category": "custom",
+    "category": "design",
     "repo": "https://github.com/lekoala/last-icon"
   },
   {
@@ -106,10 +106,71 @@
   },
   {
     "name": "play-button",
-    "category": "extension",
+    "category": "media",
     "repo": "https://github.com/daviddarnes/play-button",
     "url": "https://darn.es/play-button-web-component/",
     "script": "npm install @daviddarnes/play-button",
     "snippet": "<play-button><button>Play me</button><audio src='...'></audio></play-button>"
+  },
+  {
+    "name": "chess-board",
+    "category": "novelty",
+    "url": "https://justinfagnani.github.io/chessboard-element/"
+  },
+  {
+    "name": "accordion-container",
+    "category": "extensions",
+    "repo": "https://github.com/levimcg/accordion-container-element",
+    "url": "https://codepen.io/levimcg/pen/ZEYapRY"
+  },
+  {
+    "name": "aeon-datepicker",
+    "category": "forms",
+    "repo": "https://github.com/lamplightdev/aeon"
+  },
+  {
+    "name": "bt-device",
+    "category": "custom",
+    "repo": "https://github.com/mattdsteele/bt-device"
+  },
+  {
+    "name": "scroll-shadow",
+    "category": "design",
+    "repo": "https://github.com/ingmarh/scroll-shadow-element"
+  },
+  {
+    "name": "flex-grid",
+    "category": "design",
+    "repo": "https://github.com/lekoala/flex-grid"
+  },
+  {
+    "name": "feedback-component",
+    "category": "forms",
+    "repo": "https://github.com/RamseyInHouse/feedback-component"
+  },
+  {
+    "name": "image-compare",
+    "category": "extensions",
+    "url": "https://image-compare-component.netlify.app"
+  },
+  {
+    "name": "slide-show",
+    "category": "extensions",
+    "url": "https://stephen.band/slide-show/"
+  },
+  {
+    "name": "details-utils",
+    "category": "extensions",
+    "repo": "https://github.com/zachleat/details-utils"
+  },
+  {
+    "name": "show-password-toggle",
+    "category": "forms",
+    "repo": "https://github.com/sunnywalker/show-password-toggle"
+  },
+  {
+    "name": "easy-row",
+    "category": "design",
+    "repo": "https://github.com/compmeist/easy-row"
   }
 ]

@@ -8,27 +8,55 @@ permalink: /readme.md
 ## Element Extensions
 
 Web Components that extend or add to an existing semantic element.
-{% for tag in standalones %}{% if tag.category == 'extension' %}
-- [`<{{ tag.name }}>`]({{ tag.repo }})
+{% for tag in standalones %}{% if tag.category == 'extensions' %}
+- [`<{{ tag.name }}>`]({{ tag.url if tag.url else tag.repo }})
 {%- endif %}{% endfor %}
 
 ## `<time>` Elements
 
 Github has a bundle of elements that extend the native `<time>` element.
 {% for tag in standalones %}{% if tag.category == 'time' %}
-- [`<{{ tag.name }}>`]({{ tag.repo }})
+- [`<{{ tag.name }}>`]({{ tag.url if tag.url else tag.repo }})
+{%- endif %}{% endfor %}
+
+## Form Elements
+
+Web Components that are, or can be used with, form submissions.
+{% for tag in standalones %}{% if tag.category == 'forms' %}
+- [`<{{ tag.name }}>`]({{ tag.url if tag.url else tag.repo }})
+{%- endif %}{% endfor %}
+
+## Utility Elements
+
+Useful little Web Components.
+{% for tag in standalones %}{% if tag.category == 'utilities' %}
+- [`<{{ tag.name }}>`]({{ tag.url if tag.url else tag.repo }})
+{%- endif %}{% endfor %}
+
+## Media Elements
+
+Web Components that are, or can be used with, media of any kind.
+{% for tag in standalones %}{% if tag.category == 'media' %}
+- [`<{{ tag.name }}>`]({{ tag.url if tag.url else tag.repo }})
+{%- endif %}{% endfor %}
+
+## Design Elements
+
+Web Components that help with visual presentation.
+{% for tag in standalones %}{% if tag.category == 'design' %}
+- [`<{{ tag.name }}>`]({{ tag.url if tag.url else tag.repo }})
 {%- endif %}{% endfor %}
 
 ## Custom Elements
 
 Frequently-solved problems in web component form.
 {% for tag in standalones %}{% if tag.category == 'custom' %}
-- [`<{{ tag.name }}>`]({{ tag.repo }})
+- [`<{{ tag.name }}>`]({{ tag.url if tag.url else tag.repo }})
 {%- endif %}{% endfor %}
 
 ## Novelty Elements
 {% for tag in standalones %}{% if tag.category == 'novelty' %}
-- [`<{{ tag.name }}>`]({{ tag.repo }})
+- [`<{{ tag.name }}>`]({{ tag.url if tag.url else tag.repo }})
 {%- endif %}{% endfor %}
 
 ## Contribute

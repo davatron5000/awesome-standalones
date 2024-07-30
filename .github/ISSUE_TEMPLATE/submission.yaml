@@ -21,8 +21,12 @@ body:
       label: Category
       description: The category your standalone falls into. If you don't think it fits into any please propose a new category via a pull request.
       options:
-        - extension
+        - extensions
         - time
+        - forms
+        - utilities
+        - media
+        - design
         - custom
         - novelty
       default: 0
