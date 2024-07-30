@@ -103,5 +103,13 @@
     "name": "spacer-gif",
     "category": "novelty",
     "repo": "https://github.com/erikkroes/spacer-gif"
+  },
+  {
+    "name": "play-button",
+    "category": "extension",
+    "repo": "https://github.com/daviddarnes/play-button",
+    "url": "https://darn.es/play-button-web-component/",
+    "script": "npm install @daviddarnes/play-button",
+    "snippet": "<play-button><button>Play me</button><audio src='...'></audio></play-button>"
   }
 ]
