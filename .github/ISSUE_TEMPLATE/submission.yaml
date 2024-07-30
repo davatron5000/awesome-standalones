@@ -25,7 +25,7 @@ body:
         - time
         - custom
         - novelty
-      default: extension
+      default: 0
   - type: input
     id: repo
     attributes:
