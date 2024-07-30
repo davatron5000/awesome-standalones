@@ -1,0 +1,37 @@
+name: Update
+description: You would like to update an existing standalone
+title: "Update: "
+labels: ["update"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Want to save time? Find your standalone in [the main JSON file](https://github.com/davatron5000/awesome-standalones/blob/main/src/_data/standalones.json) and update it directly with a pull request. Don't forget to check our [contributing guide](https://github.com/davatron5000/awesome-standalones/blob/master/contributing.md).
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The name of your standalone
+      placeholder: standalone-name
+    validations:
+      required: true
+  - type: dropdown
+    id: attributes
+    attributes:
+      label: Attribute(s)
+      description: The attribute(s) you'd like to change.
+      multiple: true
+      options:
+        - name
+        - category
+        - repo
+        - url
+        - script
+        - snippet
+    validations:
+      required: true
+  - type: textarea
+    id: Changes
+    attributes:
+      label: Changes
+      description: The changes you'd like to make

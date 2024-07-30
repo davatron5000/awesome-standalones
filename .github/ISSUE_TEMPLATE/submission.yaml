@@ -1,0 +1,52 @@
+name: Submission
+description: You would like to add a new standalone to the project
+title: "Submission: "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your submission! Want to save us time? Follow the [contributing guide](https://github.com/davatron5000/awesome-standalones/blob/master/contributing.md) and once approved we can merge it directly in. Alternatively follow the steps below.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The name of your standalone, preferably the tag name (e.g. "play-button").
+      placeholder: standalone-name
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: The category your standalone falls into. If you don't think it fits into any please propose a new category via a pull request.
+      options:
+        - extension
+        - time
+        - custom
+        - novelty
+      default: extension
+  - type: input
+    id: repo
+    attributes:
+      label: Repo
+      description: The source code for the standalone, if it exists publically
+      placeholder: https://github.com/daviddarnes/play-button
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: A main page for the standalone (homepage, post, demo, etc)
+      placeholder: https://darn.es/play-button-web-component/
+  - type: input
+    id: script
+    attributes:
+      label: Install script
+      description: The advisted method of installing the standalone in a web project
+      placeholder: npm install @daviddarnes/play-button
+  - type: textarea
+    id: snippet
+    attributes:
+      label: Snippet example
+      description: An example snippet of HTML to demonstate how to use the component
+      render: html
