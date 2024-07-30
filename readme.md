@@ -9,6 +9,7 @@ Web Components that extend or add to an existing semantic element.
 - [`<details-dialog>`](https://github.com/github/details-dialog-element)
 - [`<details-menu>`](https://github.com/github/details-menu-element)
 - [`<file-drop>`](https://github.com/GoogleChromeLabs/file-drop)
+- [`<play-button>`](https://github.com/daviddarnes/play-button)
 
 ## `<time>` Elements
 
