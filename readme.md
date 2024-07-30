@@ -8,8 +8,12 @@ Web Components that extend or add to an existing semantic element.
 
 - [`<details-dialog>`](https://github.com/github/details-dialog-element)
 - [`<details-menu>`](https://github.com/github/details-menu-element)
-- [`<file-drop>`](https://github.com/GoogleChromeLabs/file-drop)
-- [`<play-button>`](https://github.com/daviddarnes/play-button)
+- [`<tab-container>`](https://github.com/github/tab-container-element)
+- [`<task-lists>`](https://github.com/github/task-lists-element)
+- [`<accordion-container>`](https://codepen.io/levimcg/pen/ZEYapRY)
+- [`<image-compare>`](https://image-compare-component.netlify.app)
+- [`<slide-show>`](https://stephen.band/slide-show/)
+- [`<details-utils>`](https://github.com/zachleat/details-utils)
 
 ## `<time>` Elements
 
@@ -19,28 +23,56 @@ Github has a bundle of elements that extend the native `<time>` element.
 - [`<relative-time>`](https://github.com/github/time-elements)
 - [`<time-ago>`](https://github.com/github/time-elements)
 
+## Form Elements
+
+Web Components that are, or can be used with, form submissions.
+
+- [`<file-drop>`](https://github.com/GoogleChromeLabs/file-drop)
+- [`<input-knob>`](https://github.com/GoogleChromeLabs/input-knob)
+- [`<range-slider>`](https://github.com/andreruffert/range-slider-element)
+- [`<aeon-datepicker>`](https://github.com/lamplightdev/aeon)
+- [`<feedback-component>`](https://github.com/RamseyInHouse/feedback-component)
+- [`<show-password-toggle>`](https://github.com/sunnywalker/show-password-toggle)
+
+## Utility Elements
+
+Useful little Web Components.
+
+- [`<clipboard-copy>`](https://github.com/github/clipboard-copy-element)
+
+## Media Elements
+
+Web Components that are, or can be used with, media of any kind.
+
+- [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed)
+- [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer)
+- [`<pinch-zoom>`](https://github.com/GoogleChromeLabs/pinch-zoom)
+- [`<two-up>`](https://github.com/GoogleChromeLabs/two-up)
+- [`<play-button>`](https://darn.es/play-button-web-component/)
+
+## Design Elements
+
+Web Components that help with visual presentation.
+
+- [`<dark-mode>`](https://github.com/GoogleChromeLabs/dark-mode-toggle)
+- [`<l-i>`](https://github.com/lekoala/last-icon)
+- [`<scroll-shadow>`](https://github.com/ingmarh/scroll-shadow-element)
+- [`<flex-grid>`](https://github.com/lekoala/flex-grid)
+- [`<easy-row>`](https://github.com/compmeist/easy-row)
+
 ## Custom Elements
 
 Frequently-solved problems in web component form.
 
-- [`<clipboard-copy>`](https://github.com/github/clipboard-copy-element)
-- [`<input-knob>`](https://github.com/GoogleChromeLabs/input-knob)
-- [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed)
-- [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer)
-- [`<pinch-zoom>`](https://github.com/GoogleChromeLabs/pinch-zoom)
-- [`<range-slider>`](https://github.com/andreruffert/range-slider-element)
-- [`<tab-container>`](https://github.com/github/tab-container-element)
-- [`<task-lists>`](https://github.com/github/task-lists-element)
-- [`<two-up>`](https://github.com/GoogleChromeLabs/two-up)
-- [`<dark-mode>`](https://github.com/GoogleChromeLabs/dark-mode-toggle)
-- [`<katex-display>`](https://www.npmjs.com/package/katex-elements)
+- [`<katex-display>`](https://github.com/justinfagnani/katex-elements)
 - [`<html-include>`](https://www.npmjs.com/package//html-include-element)
 - [`<pwa-install>`](https://github.com/pwa-builder/pwa-install)
-- [`<l-i>`](https://github.com/lekoala/last-icon)
+- [`<bt-device>`](https://github.com/mattdsteele/bt-device)
 
 ## Novelty Elements
 
 - [`<spacer-gif>`](https://github.com/erikkroes/spacer-gif)
+- [`<chess-board>`](https://justinfagnani.github.io/chessboard-element/)
 
 ## Contribute
 
