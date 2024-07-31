@@ -174,12 +174,6 @@
     "repo": "https://github.com/compmeist/easy-row"
   },
   {
-    "name": "sandpack-lit",
-    "category": "custom",
-    "repo": "https://github.com/andrico1234/sandpack-lit",
-    "script": "npm i sandpack-lit"
-  },  
-  {
     "name": "no-spoilers",
     "category": "custom",
     "repo": "https://github.com/andrico1234/no-spoilers",
