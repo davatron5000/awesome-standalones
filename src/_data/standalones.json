@@ -172,5 +172,10 @@
     "name": "easy-row",
     "category": "design",
     "repo": "https://github.com/compmeist/easy-row"
+  },
+  {
+    "name": "link-preview",
+    "category": "extensions",
+    "repo": "https://github.com/rg-wood/link-preview"
   }
 ]
