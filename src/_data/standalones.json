@@ -172,5 +172,25 @@
     "name": "easy-row",
     "category": "design",
     "repo": "https://github.com/compmeist/easy-row"
+  },
+  {
+    "name": "sandpack-lit",
+    "category": "custom",
+    "repo": "https://github.com/andrico1234/sandpack-lit",
+    "script": "npm i sandpack-lit"
+  },  
+  {
+    "name": "no-spoilers",
+    "category": "custom",
+    "repo": "https://github.com/andrico1234/no-spoilers",
+    "script": "npm i no-spoilers",
+    "snippet": "<no-spoilers><details><p>This is a spoiler</p></details></no-spoilers>"
+  },
+  {
+    "name": "autosize-textarea",
+    "category": "extensions",
+    "repo": "https://github.com/andrico1234/autosize-textarea",
+    "script": "npm i autosize-textarea",
+    "snippet": "<autosize-textarea><textarea rows='1' placeholder='Type something here...'></textarea></autosize-textarea>"
   }
 ]
