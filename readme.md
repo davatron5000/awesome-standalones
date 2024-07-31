@@ -14,6 +14,7 @@ Web Components that extend or add to an existing semantic element.
 - [`<image-compare>`](https://image-compare-component.netlify.app)
 - [`<slide-show>`](https://stephen.band/slide-show/)
 - [`<details-utils>`](https://github.com/zachleat/details-utils)
+- [`<autosize-textarea>`](https://github.com/andrico1234/autosize-textarea)
 
 ## `<time>` Elements
 
@@ -68,6 +69,7 @@ Frequently-solved problems in web component form.
 - [`<html-include>`](https://www.npmjs.com/package//html-include-element)
 - [`<pwa-install>`](https://github.com/pwa-builder/pwa-install)
 - [`<bt-device>`](https://github.com/mattdsteele/bt-device)
+- [`<no-spoilers>`](https://github.com/andrico1234/no-spoilers)
 
 ## Novelty Elements
 
