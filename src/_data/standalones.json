@@ -186,5 +186,27 @@
     "repo": "https://github.com/andrico1234/autosize-textarea",
     "script": "npm i autosize-textarea",
     "snippet": "<autosize-textarea><textarea rows='1' placeholder='Type something here...'></textarea></autosize-textarea>"
+  },
+  {
+    "name": "link-peek",
+    "category": "extensions",
+    "repo": "https://github.com/daviddarnes/link-peek",
+    "url": "https://darn.es/link-peek-web-component/",
+    "script": "npm install @daviddarnes/link-peek",
+    "snippet": "<template id='link-peek-template'><p data-key='data.description'></p></template>\n<link-peek api='https://api.microlink.io/?url=${link}'><a href='https://darn.es'>David Darnes</a></link-peek>"
+  },
+  {
+    "name": "link-preview",
+    "category": "extensions",
+    "repo": "https://github.com/rg-wood/link-preview",
+    "script": "npm i @grislyeye/link-preview",
+    "snippet": "<link-preview><a href='#fragment'>Link</a></link-preview>"
+  },
+  {
+    "name": "vellum-dice",
+    "category": "novelty",
+    "repo": "https://github.com/grislyeye/vellum-dice",
+    "script": "npm i vellum-dice",
+    "snippet": "<vellum-dice animation>2d6+3</vellum-dice>"
   }
 ]
