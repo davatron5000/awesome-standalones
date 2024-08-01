@@ -15,6 +15,8 @@ Web Components that extend or add to an existing semantic element.
 - [`<slide-show>`](https://stephen.band/slide-show/)
 - [`<details-utils>`](https://github.com/zachleat/details-utils)
 - [`<autosize-textarea>`](https://github.com/andrico1234/autosize-textarea)
+- [`<link-peek>`](https://darn.es/link-peek-web-component/)
+- [`<link-preview>`](https://github.com/rg-wood/link-preview)
 
 ## `<time>` Elements
 
@@ -75,6 +77,7 @@ Frequently-solved problems in web component form.
 
 - [`<spacer-gif>`](https://github.com/erikkroes/spacer-gif)
 - [`<chess-board>`](https://justinfagnani.github.io/chessboard-element/)
+- [`<vellum-dice>`](https://github.com/grislyeye/vellum-dice)
 
 ## Contribute
 
