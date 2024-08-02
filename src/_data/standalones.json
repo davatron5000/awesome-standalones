@@ -208,5 +208,12 @@
     "repo": "https://github.com/grislyeye/vellum-dice",
     "script": "npm i vellum-dice",
     "snippet": "<vellum-dice animation>2d6+3</vellum-dice>"
+  },
+  {
+    "name": "typesense-minibar",
+    "category": "forms",
+    "repo": "https://github.com/jquery/typesense-minibar",
+    "url": "https://jquery.github.io/typesense-minibar/demo/",
+    "snippet": "<typesense-minibar><form role='search' action='https://duckduckgo.com'><input type='search' name='q' placeholder='Search...'><input type='hidden' name='sites' value='example.org'></form></typesense-minibar>"
   }
 ]
