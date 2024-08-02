@@ -36,6 +36,7 @@ Web Components that are, or can be used with, form submissions.
 - [`<aeon-datepicker>`](https://github.com/lamplightdev/aeon)
 - [`<feedback-component>`](https://github.com/RamseyInHouse/feedback-component)
 - [`<show-password-toggle>`](https://github.com/sunnywalker/show-password-toggle)
+- [`<typesense-minibar>`](https://jquery.github.io/typesense-minibar/demo/)
 
 ## Utility Elements
 
