@@ -73,12 +73,14 @@ Frequently-solved problems in web component form.
 - [`<pwa-install>`](https://github.com/pwa-builder/pwa-install)
 - [`<bt-device>`](https://github.com/mattdsteele/bt-device)
 - [`<no-spoilers>`](https://github.com/andrico1234/no-spoilers)
+- [`<place-holder>`](https://github.com/Noleli/place-holder)
 
 ## Novelty Elements
 
 - [`<spacer-gif>`](https://github.com/erikkroes/spacer-gif)
 - [`<chess-board>`](https://justinfagnani.github.io/chessboard-element/)
 - [`<vellum-dice>`](https://github.com/grislyeye/vellum-dice)
+- [`<plucky-underline>`](https://noahliebman.net/projects/plucky-underline/)
 
 ## Contribute
 
