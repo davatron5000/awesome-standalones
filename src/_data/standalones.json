@@ -221,7 +221,7 @@
     "category": "novelty",
     "repo": "https://github.com/Noleli/plucky-underline",
     "url": "https://noahliebman.net/projects/plucky-underline/",
-    "snippet": "<a href="example.html"><plucky-underline>Example</plucky-underline></a>"
+    "snippet": "<a href='example.html'><plucky-underline>Example</plucky-underline></a>"
   },
   {
     "name": "place-holder",
