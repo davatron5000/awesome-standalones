@@ -20,7 +20,7 @@ Ensure your pull request adheres to the following guidelines:
   }
   ```
 - Items should always have a `name`, `category` and `repo`
-- `category` can be `extension`, `time`, `custom` or `novelty`
+- `category` can be `custom`, `design`, `extensions`, `forms`, `media`, `novelty`, `time`, `utilities`
 - `url`, `script` and `snippet` are optional
 - If it's a significant change, please file an issue to discuss first
 - And don't forget to check other PRs for duplicates
