@@ -232,7 +232,7 @@
   {
     "name": "duration-property",
     "repo": "https://github.com/daviddarnes/duration-property",
-    "category": "utility",
+    "category": "utilities",
     "url": "https://darn.es/duration-property-web-component",
     "script": "npm install @daviddarnes/duration-property",
     "snippet": "<duration-property><audio src='...'></audio></duration-property>"
@@ -248,7 +248,7 @@
   {
     "name": "is-playing",
     "repo": "https://github.com/daviddarnes/is-playing",
-    "category": "utility",
+    "category": "utilities",
     "url": "https://darn.es/is-playing-web-component",
     "script": "npm install @daviddarnes/is-playing",
     "snippet": "<is-playing><audio src='...'></audio></is-playing>"
@@ -256,7 +256,7 @@
   {
     "name": "live-filter",
     "repo": "https://github.com/daviddarnes/live-filter",
-    "category": "utility",
+    "category": "utilities",
     "url": "https://darn.es/live-filter-web-component",
     "script": "npm install @daviddarnes/live-filter",
     "snippet": "<live-filter><input type='search'><ul><li>...</ul></live-filter>"
@@ -312,7 +312,7 @@
   {
     "name": "storage-form",
     "repo": "https://github.com/daviddarnes/storage-form",
-    "category": "utility",
+    "category": "utilities",
     "url": "https://darn.es/storage-form-web-component",
     "script": "npm install @daviddarnes/storage-form",
     "snippet": "<storage-form><input type='text' name='example' /></storage-form>"
@@ -320,7 +320,7 @@
   {
     "name": "sample-input",
     "repo": "https://github.com/daviddarnes/sample-input",
-    "category": "utility",
+    "category": "utilities",
     "url": "https://darn.es/sample-input-web-component",
     "script": "npm install @daviddarnes/sample-input",
     "snippet": "<sample-input><input type='file'><audio controls></audio></sample-input>"
