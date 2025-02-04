@@ -240,7 +240,7 @@
   {
     "name": "heading-anchors",
     "repo": "https://github.com/daviddarnes/heading-anchors",
-    "category": "extension",
+    "category": "extensions",
     "url": "https://darn.es/heading-anchors-web-component",
     "script": "npm install @daviddarnes/heading-anchors",
     "snippet": "<heading-anchors><h2 id='heading'>Heading</h2></heading-anchors>"
@@ -264,7 +264,7 @@
   {
     "name": "random-source",
     "repo": "https://github.com/daviddarnes/random-source",
-    "category": "extension",
+    "category": "extensions",
     "url": "https://darn.es/random-source-web-component",
     "script": "npm install @daviddarnes/random-source",
     "snippet": "<random-source><audio controls><source src='...' /><source src='...' /></audio></random-source>"
@@ -288,7 +288,7 @@
   {
     "name": "link-peek",
     "repo": "https://github.com/daviddarnes/link-peek",
-    "category": "extension",
+    "category": "extensions",
     "url": "https://darn.es/link-peek-web-component",
     "script": "npm install @daviddarnes/link-peek",
     "snippet": "<template id='link-peek-template'><p data-key='data.description'></p></template>\n<link-peek api='https://api.microlink.io/?url=${link}'><a href='https://darn.es'>David Darnes</a></link-peek>"
@@ -304,7 +304,7 @@
   {
     "name": "share-button",
     "repo": "https://github.com/daviddarnes/share-button",
-    "category": "extension",
+    "category": "extensions",
     "url": "https://darn.es/share-button-web-component",
     "script": "npm install @daviddarnes/share-button",
     "snippet": "<share-button><button>Share</button></share-button>"
@@ -328,7 +328,7 @@
   {
     "name": "play-button",
     "repo": "https://github.com/daviddarnes/play-button",
-    "category": "extension",
+    "category": "extensions",
     "url": "https://darn.es/play-button-web-component",
     "script": "npm install @daviddarnes/play-button",
     "snippet": "<play-button><button>Play me</button><audio src='...'></audio></play-button>"
