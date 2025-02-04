@@ -16,6 +16,11 @@ Web Components that extend or add to an existing semantic element.
 - [`<details-utils>`](https://github.com/zachleat/details-utils)
 - [`<autosize-textarea>`](https://github.com/andrico1234/autosize-textarea)
 - [`<link-preview>`](https://github.com/rg-wood/link-preview)
+- [`<heading-anchors>`](https://darn.es/heading-anchors-web-component)
+- [`<random-source>`](https://darn.es/random-source-web-component)
+- [`<link-peek>`](https://darn.es/link-peek-web-component)
+- [`<share-button>`](https://darn.es/share-button-web-component)
+- [`<play-button>`](https://darn.es/play-button-web-component)
 
 ## `<time>` Elements
 
