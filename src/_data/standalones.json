@@ -105,14 +105,6 @@
     "repo": "https://github.com/erikkroes/spacer-gif"
   },
   {
-    "name": "play-button",
-    "category": "media",
-    "repo": "https://github.com/daviddarnes/play-button",
-    "url": "https://darn.es/play-button-web-component/",
-    "script": "npm install @daviddarnes/play-button",
-    "snippet": "<play-button><button>Play me</button><audio src='...'></audio></play-button>"
-  },
-  {
     "name": "chess-board",
     "category": "novelty",
     "url": "https://justinfagnani.github.io/chessboard-element/"
@@ -188,14 +180,6 @@
     "snippet": "<autosize-textarea><textarea rows='1' placeholder='Type something here...'></textarea></autosize-textarea>"
   },
   {
-    "name": "link-peek",
-    "category": "extensions",
-    "repo": "https://github.com/daviddarnes/link-peek",
-    "url": "https://darn.es/link-peek-web-component/",
-    "script": "npm install @daviddarnes/link-peek",
-    "snippet": "<template id='link-peek-template'><p data-key='data.description'></p></template>\n<link-peek api='https://api.microlink.io/?url=${link}'><a href='https://darn.es'>David Darnes</a></link-peek>"
-  },
-  {
     "name": "link-preview",
     "category": "extensions",
     "repo": "https://github.com/rg-wood/link-preview",
@@ -228,5 +212,125 @@
     "category": "custom",
     "repo": "https://github.com/Noleli/place-holder",
     "script": "npm i @noleli/place-holder"
+  },
+  {
+    "name": "bluesky-post",
+    "repo": "https://github.com/daviddarnes/bluesky-post",
+    "category": "media",
+    "url": "https://darn.es/bluesky-post-web-component",
+    "script": "npm install @daviddarnes/bluesky-post",
+    "snippet": "<bluesky-post><a href='https://bsky.app/...'>Discuss on Bluesky</a></bluesky-post>"
+  },
+  {
+    "name": "bluesky-replies",
+    "repo": "https://github.com/daviddarnes/bluesky-replies",
+    "category": "media",
+    "url": "https://darn.es/bluesky-replies-web-component",
+    "script": "npm install @daviddarnes/bluesky-replies",
+    "snippet": "<bluesky-replies><a href='https://bsky.app/...'>Discuss on Bluesky</a></bluesky-replies>"
+  },
+  {
+    "name": "duration-property",
+    "repo": "https://github.com/daviddarnes/duration-property",
+    "category": "utility",
+    "url": "https://darn.es/duration-property-web-component",
+    "script": "npm install @daviddarnes/duration-property",
+    "snippet": "<duration-property><audio src='...'></audio></duration-property>"
+  },
+  {
+    "name": "heading-anchors",
+    "repo": "https://github.com/daviddarnes/heading-anchors",
+    "category": "extension",
+    "url": "https://darn.es/heading-anchors-web-component",
+    "script": "npm install @daviddarnes/heading-anchors",
+    "snippet": "<heading-anchors><h2 id='heading'>Heading</h2></heading-anchors>"
+  },
+  {
+    "name": "is-playing",
+    "repo": "https://github.com/daviddarnes/is-playing",
+    "category": "utility",
+    "url": "https://darn.es/is-playing-web-component",
+    "script": "npm install @daviddarnes/is-playing",
+    "snippet": "<is-playing><audio src='...'></audio></is-playing>"
+  },
+  {
+    "name": "live-filter",
+    "repo": "https://github.com/daviddarnes/live-filter",
+    "category": "utility",
+    "url": "https://darn.es/live-filter-web-component",
+    "script": "npm install @daviddarnes/live-filter",
+    "snippet": "<live-filter><input type='search'><ul><li>...</ul></live-filter>"
+  },
+  {
+    "name": "random-source",
+    "repo": "https://github.com/daviddarnes/random-source",
+    "category": "extension",
+    "url": "https://darn.es/random-source-web-component",
+    "script": "npm install @daviddarnes/random-source",
+    "snippet": "<random-source><audio controls><source src='...' /><source src='...' /></audio></random-source>"
+  },
+  {
+    "name": "code-pen",
+    "repo": "https://github.com/daviddarnes/code-pen",
+    "category": "media",
+    "url": "https://darn.es/code-pen-web-component",
+    "script": "npm install @daviddarnes/code-pen",
+    "snippet": "<code-pen><pre><code>&lt;p&gt;Hello world&lt;/p&gt;</code></pre></code-pen>"
+  },
+  {
+    "name": "contrast-details",
+    "repo": "https://github.com/daviddarnes/contrast-details",
+    "category": "novelty",
+    "url": "https://darn.es/contrast-details-web-component",
+    "script": "npm install @daviddarnes/contrast-details",
+    "snippet": "<contrast-details style='--foreground: #444; --background: #ccc'></contrast-details>"
+  },
+  {
+    "name": "link-peek",
+    "repo": "https://github.com/daviddarnes/link-peek",
+    "category": "extension",
+    "url": "https://darn.es/link-peek-web-component",
+    "script": "npm install @daviddarnes/link-peek",
+    "snippet": "<template id='link-peek-template'><p data-key='data.description'></p></template>\n<link-peek api='https://api.microlink.io/?url=${link}'><a href='https://darn.es'>David Darnes</a></link-peek>"
+  },
+  {
+    "name": "mastodon-post",
+    "repo": "https://github.com/daviddarnes/mastodon-post",
+    "category": "media",
+    "url": "https://darn.es/mastodon-post-web-component",
+    "script": "npm install @daviddarnes/mastodon-post",
+    "snippet": "<mastodon-post><a href='https://mastodon.social/...'>Discuss on Mastodon</a></mastodon-post>"
+  },
+  {
+    "name": "share-button",
+    "repo": "https://github.com/daviddarnes/share-button",
+    "category": "extension",
+    "url": "https://darn.es/share-button-web-component",
+    "script": "npm install @daviddarnes/share-button",
+    "snippet": "<share-button><button>Share</button></share-button>"
+  },
+  {
+    "name": "storage-form",
+    "repo": "https://github.com/daviddarnes/storage-form",
+    "category": "utility",
+    "url": "https://darn.es/storage-form-web-component",
+    "script": "npm install @daviddarnes/storage-form",
+    "snippet": "<storage-form><input type='text' name='example' /></storage-form>"
+  },
+  {
+    "name": "sample-input",
+    "repo": "https://github.com/daviddarnes/sample-input",
+    "category": "utility",
+    "url": "https://darn.es/sample-input-web-component",
+    "script": "npm install @daviddarnes/sample-input",
+    "snippet": "<sample-input><input type='file'><audio controls></audio></sample-input>"
+  },
+  {
+    "name": "play-button",
+    "repo": "https://github.com/daviddarnes/play-button",
+    "category": "extension",
+    "url": "https://darn.es/play-button-web-component",
+    "script": "npm install @daviddarnes/play-button",
+    "snippet": "<play-button><button>Play me</button><audio src='...'></audio></play-button>"
   }
 ]
