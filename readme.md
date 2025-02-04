@@ -15,7 +15,6 @@ Web Components that extend or add to an existing semantic element.
 - [`<slide-show>`](https://stephen.band/slide-show/)
 - [`<details-utils>`](https://github.com/zachleat/details-utils)
 - [`<autosize-textarea>`](https://github.com/andrico1234/autosize-textarea)
-- [`<link-peek>`](https://darn.es/link-peek-web-component/)
 - [`<link-preview>`](https://github.com/rg-wood/link-preview)
 
 ## `<time>` Elements
@@ -52,7 +51,10 @@ Web Components that are, or can be used with, media of any kind.
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer)
 - [`<pinch-zoom>`](https://github.com/GoogleChromeLabs/pinch-zoom)
 - [`<two-up>`](https://github.com/GoogleChromeLabs/two-up)
-- [`<play-button>`](https://darn.es/play-button-web-component/)
+- [`<bluesky-post>`](https://darn.es/bluesky-post-web-component)
+- [`<bluesky-replies>`](https://darn.es/bluesky-replies-web-component)
+- [`<code-pen>`](https://darn.es/code-pen-web-component)
+- [`<mastodon-post>`](https://darn.es/mastodon-post-web-component)
 
 ## Design Elements
 
@@ -81,6 +83,7 @@ Frequently-solved problems in web component form.
 - [`<chess-board>`](https://justinfagnani.github.io/chessboard-element/)
 - [`<vellum-dice>`](https://github.com/grislyeye/vellum-dice)
 - [`<plucky-underline>`](https://noahliebman.net/projects/plucky-underline/)
+- [`<contrast-details>`](https://darn.es/contrast-details-web-component)
 
 ## Contribute
 
