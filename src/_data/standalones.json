@@ -332,5 +332,12 @@
     "url": "https://darn.es/play-button-web-component",
     "script": "npm install @daviddarnes/play-button",
     "snippet": "<play-button><button>Play me</button><audio src='...'></audio></play-button>"
+  }, 
+  {
+    "name": "youtube-player",
+    "repo": "https://github.com/alanwsmith/youtube-player.alanwsmith.com",
+    "category": "media",
+    "url": "https://youtube-player.alanwsmith.com/",
+    "snippet": "<youtube-player :video=\"dQw4w9WgXcQ\"><youtube-player>"
   }
 ]
