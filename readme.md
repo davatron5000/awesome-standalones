@@ -47,6 +47,11 @@ Web Components that are, or can be used with, form submissions.
 Useful little Web Components.
 
 - [`<clipboard-copy>`](https://github.com/github/clipboard-copy-element)
+- [`<duration-property>`](https://darn.es/duration-property-web-component)
+- [`<is-playing>`](https://darn.es/is-playing-web-component)
+- [`<live-filter>`](https://darn.es/live-filter-web-component)
+- [`<storage-form>`](https://darn.es/storage-form-web-component)
+- [`<sample-input>`](https://darn.es/sample-input-web-component)
 
 ## Media Elements
 
