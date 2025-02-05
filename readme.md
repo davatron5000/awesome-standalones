@@ -1,6 +1,6 @@
 # Awesome Standalones [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome framework-agnostic standalone web components
+> A curated list of **56** awesome framework-agnostic standalone web components
 
 ## Element Extensions
 
