@@ -346,5 +346,11 @@
     "repo": "https://github.com/jbasoo/visual-viewport",
     "url": "https://jamesbasoo.com/visual-viewport/",
     "snippet": "<visual-viewport data-position='center-center' popover='manual' id='visual-viewport'></visual-viewport>"
+  },
+  {
+    "name": "if-/or-/else-",
+    "category": "design",
+    "repo": "https://github.com/sakamies/conditional-elements",
+    "snippet": "<input name='animal'><if- name='animal' value='Giraffe'>Giraffes are awesome!</if->"
   }
 ]
