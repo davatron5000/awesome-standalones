@@ -1,6 +1,6 @@
 # Awesome Standalones [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **57** awesome framework-agnostic standalone web components
+> A curated list of **58** awesome framework-agnostic standalone web components
 
 ## Element Extensions
 
@@ -77,6 +77,7 @@ Web Components that help with visual presentation.
 - [`<scroll-shadow>`](https://github.com/ingmarh/scroll-shadow-element)
 - [`<flex-grid>`](https://github.com/lekoala/flex-grid)
 - [`<easy-row>`](https://github.com/compmeist/easy-row)
+- [`<if-/or-/else->`](https://github.com/sakamies/conditional-elements)
 
 ## Custom Elements
 
