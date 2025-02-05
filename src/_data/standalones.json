@@ -339,5 +339,12 @@
     "category": "media",
     "url": "https://youtube-player.alanwsmith.com/",
     "snippet": "<youtube-player :video=\"dQw4w9WgXcQ\"><youtube-player>"
+  },
+  {
+    "name": "visual-viewport",
+    "category": "utilities",
+    "repo": "https://github.com/jbasoo/visual-viewport",
+    "url": "https://jamesbasoo.com/visual-viewport/",
+    "snippet": "<visual-viewport data-position='center-center' popover='manual' id='visual-viewport'></visual-viewport>"
   }
 ]
