@@ -71,7 +71,7 @@ Web Components that are, or can be used with, media of any kind.
 
 Web Components that help with visual presentation.
 
-- [`<dark-mode>`](https://github.com/GoogleChromeLabs/dark-mode-toggle)
+- [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle)
 - [`<l-i>`](https://github.com/lekoala/last-icon)
 - [`<scroll-shadow>`](https://github.com/ingmarh/scroll-shadow-element)
 - [`<flex-grid>`](https://github.com/lekoala/flex-grid)
