@@ -75,7 +75,7 @@
     "repo": "https://github.com/GoogleChromeLabs/two-up"
   },
   {
-    "name": "dark-mode",
+    "name": "dark-mode-toggle",
     "category": "design",
     "repo": "https://github.com/GoogleChromeLabs/dark-mode-toggle"
   },
