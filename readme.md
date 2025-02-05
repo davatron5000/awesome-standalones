@@ -65,6 +65,7 @@ Web Components that are, or can be used with, media of any kind.
 - [`<bluesky-replies>`](https://darn.es/bluesky-replies-web-component)
 - [`<code-pen>`](https://darn.es/code-pen-web-component)
 - [`<mastodon-post>`](https://darn.es/mastodon-post-web-component)
+- [`<youtube-player>`](https://youtube-player.alanwsmith.com/)
 
 ## Design Elements
 
