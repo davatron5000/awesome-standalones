@@ -1,6 +1,6 @@
 # Awesome Standalones [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **58** awesome framework-agnostic standalone web components
+> A curated list of **59** awesome framework-agnostic standalone web components
 
 ## Element Extensions
 
@@ -50,6 +50,7 @@ Useful little Web Components.
 - [`<duration-property>`](https://darn.es/duration-property-web-component)
 - [`<is-playing>`](https://darn.es/is-playing-web-component)
 - [`<live-filter>`](https://darn.es/live-filter-web-component)
+- [`<log-form>`](https://github.com/knowler/log-form-element)
 - [`<sample-input>`](https://darn.es/sample-input-web-component)
 - [`<storage-form>`](https://darn.es/storage-form-web-component)
 - [`<visual-viewport>`](https://jamesbasoo.com/visual-viewport/)
