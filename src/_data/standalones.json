@@ -359,5 +359,12 @@
     "category": "utilities",
     "script": "npx jsr add @knowler/log-form-element",
     "snippet": "<log-form><form><label>Pizza toppings <input name=pizza-toppings></label><button>Submit</button></form></log-form>"
+  },
+  {
+    "name": "print-button",
+    "category": "utilities",
+    "repo": "https://github.com/nonsalant/print-button",
+    "url": "https://codepen.io/nonsalant/pen/yyBmeBp",
+    "snippet": "<print-button print-target='.element-to-print'>Print</print-button>"
   }
 ]
