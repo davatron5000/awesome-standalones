@@ -366,5 +366,12 @@
     "repo": "https://github.com/nonsalant/print-button",
     "url": "https://codepen.io/nonsalant/pen/yyBmeBp",
     "snippet": "<print-button print-target='.element-to-print'>Print</print-button>"
+  },
+  {
+    "name": "toggle-categories",
+    "category": "forms",
+    "repo": "https://github.com/nonsalant/toggle-categories",
+    "url": "https://codepen.io/nonsalant/pen/OPJLJoL",
+    "snippet": "<toggle-categories> <ul><li> <span>Category Name</span> <ul><li><label><input type=checkbox>Item</label></li></ul> </li></ul> </toggle-categories>"
   }
 ]
