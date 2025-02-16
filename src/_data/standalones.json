@@ -366,5 +366,11 @@
     "repo": "https://github.com/nonsalant/print-button",
     "url": "https://codepen.io/nonsalant/pen/yyBmeBp",
     "snippet": "<print-button print-target='.element-to-print'>Print</print-button>"
-  }
+  },
+  {
+    "name": "filter-",
+    "category": "utilities",
+    "repo": "https://github.com/sakamies/filter-element",
+    "snippet": "<form><input type='search'><filter->Elements to filter here</filter-></form>"
+  },
 ]
