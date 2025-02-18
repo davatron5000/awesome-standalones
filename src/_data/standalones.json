@@ -366,5 +366,13 @@
     "repo": "https://github.com/nonsalant/print-button",
     "url": "https://codepen.io/nonsalant/pen/yyBmeBp",
     "snippet": "<print-button print-target='.element-to-print'>Print</print-button>"
+  },
+  {
+    "name": "admin-bar",
+    "category": "novelty",
+    "repo": "https://github.com/wbrowar/admin-bar-component",
+    "script": "npm install admin-bar-component",
+    "snippet": "<admin-bar show-greeting show-environment show-logout><admin-bar-button button-href="#">Link</admin-bar-button></admin-bar>",
+    "url": "https://wbrowar.com/web-components/admin-bar-component"
   }
 ]
