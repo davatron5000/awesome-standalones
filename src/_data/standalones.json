@@ -366,5 +366,13 @@
     "repo": "https://github.com/nonsalant/print-button",
     "url": "https://codepen.io/nonsalant/pen/yyBmeBp",
     "snippet": "<print-button print-target='.element-to-print'>Print</print-button>"
+  },
+  {
+    "name": "slide-deck",
+    "category": "utilities",
+    "repo": "https://github.com/oddbird/slide-deck",
+    "url": "https://slide-deck.netlify.app/",
+    "script": "npm install @oddbird/slide-deck",
+    "snippet": "<slide-deck><header><h1>This is a slide show</h1></header><div><h2>Each child is a slide</h2></div></slide-deck>"
   }
 ]
