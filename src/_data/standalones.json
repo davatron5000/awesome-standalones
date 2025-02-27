@@ -366,5 +366,13 @@
     "repo": "https://github.com/nonsalant/print-button",
     "url": "https://codepen.io/nonsalant/pen/yyBmeBp",
     "snippet": "<print-button print-target='.element-to-print'>Print</print-button>"
+  },
+  {
+    "name": "browser-support",
+    "category": "utilities",
+    "repo": "https://github.com/oddbird/browser-support",
+    "url": "https://oddbird.github.io/browser-support/",
+    "script": "npm install @oddbird/browser-support",
+    "snippet": "<browser-support><a href='[feature-link]'>Browser support for [feature]</a></browser-support>"
   }
 ]
