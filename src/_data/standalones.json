@@ -366,5 +366,13 @@
     "repo": "https://github.com/nonsalant/print-button",
     "url": "https://codepen.io/nonsalant/pen/yyBmeBp",
     "snippet": "<print-button print-target='.element-to-print'>Print</print-button>"
+  },
+  {
+    "name": "track-list",
+    "category": "media",
+    "repo": "https://github.com/mirisuzanne/track-list",
+    "url": "https://mirisuzanne.github.io/track-list/demo.html",
+    "script": "npm install @terriblemia/track-list",
+    "snippet": "<track-list><ol slot='tracks'><li><audio controls src='…'></audio></li><li><audio controls src='…'></audio></li></ol></track-list>"
   }
 ]
