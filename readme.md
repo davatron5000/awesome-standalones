@@ -1,6 +1,6 @@
 # Awesome Standalones [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **60** awesome framework-agnostic standalone web components
+> A curated list of **61** awesome framework-agnostic standalone web components
 
 ## Element Extensions
 
@@ -40,6 +40,7 @@ Web Components that are, or can be used with, form submissions.
 - [`<input-knob>`](https://github.com/GoogleChromeLabs/input-knob)
 - [`<range-slider>`](https://github.com/andreruffert/range-slider-element)
 - [`<show-password-toggle>`](https://github.com/sunnywalker/show-password-toggle)
+- [`<toggle-categories>`](https://codepen.io/nonsalant/pen/OPJLJoL)
 - [`<typesense-minibar>`](https://jquery.github.io/typesense-minibar/demo/)
 
 ## Utility Elements
