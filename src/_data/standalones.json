@@ -387,5 +387,13 @@
     "script": "npm install admin-bar-component",
     "snippet": "<admin-bar show-greeting show-environment show-logout><admin-bar-button button-href='#'>Link</admin-bar-button></admin-bar>",
     "url": "https://wbrowar.com/web-components/admin-bar-component"
+  },
+  {
+    "name": "browser-support",
+    "category": "utilities",
+    "repo": "https://github.com/oddbird/browser-support",
+    "url": "https://oddbird.github.io/browser-support/",
+    "script": "npm install @oddbird/browser-support",
+    "snippet": "<browser-support><a href='[feature-link]'>Browser support for [feature]</a></browser-support>"
   }
 ]
