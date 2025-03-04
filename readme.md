@@ -1,6 +1,6 @@
 # Awesome Standalones [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **65** awesome framework-agnostic standalone web components
+> A curated list of **66** awesome framework-agnostic standalone web components
 
 ## Element Extensions
 
@@ -56,6 +56,7 @@ Useful little Web Components.
 - [`<log-form>`](https://github.com/knowler/log-form-element)
 - [`<print-button>`](https://codepen.io/nonsalant/pen/yyBmeBp)
 - [`<sample-input>`](https://darn.es/sample-input-web-component)
+- [`<slide-deck>`](https://slide-deck.netlify.app/)
 - [`<storage-form>`](https://darn.es/storage-form-web-component)
 - [`<visual-viewport>`](https://jamesbasoo.com/visual-viewport/)
 
