@@ -403,5 +403,13 @@
     "url": "https://mirisuzanne.github.io/track-list/demo.html",
     "script": "npm install @terriblemia/track-list",
     "snippet": "<track-list><ol slot='tracks'><li><audio controls src='…'></audio></li><li><audio controls src='…'></audio></li></ol></track-list>"
+  },
+  {
+    "name": "slide-deck",
+    "category": "utilities",
+    "repo": "https://github.com/oddbird/slide-deck",
+    "url": "https://slide-deck.netlify.app/",
+    "script": "npm install @oddbird/slide-deck",
+    "snippet": "<slide-deck><header><h1>This is a slide show</h1></header><div><h2>Each child is a slide</h2></div></slide-deck>"
   }
 ]
