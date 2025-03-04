@@ -1,6 +1,6 @@
 # Awesome Standalones [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **63** awesome framework-agnostic standalone web components
+> A curated list of **64** awesome framework-agnostic standalone web components
 
 ## Element Extensions
 
@@ -47,6 +47,7 @@ Web Components that are, or can be used with, form submissions.
 
 Useful little Web Components.
 
+- [`<browser-support>`](https://oddbird.github.io/browser-support/)
 - [`<clipboard-copy>`](https://github.com/github/clipboard-copy-element)
 - [`<duration-property>`](https://darn.es/duration-property-web-component)
 - [`<filter->`](https://github.com/sakamies/filter-element)
