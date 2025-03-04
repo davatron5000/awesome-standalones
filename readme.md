@@ -1,6 +1,6 @@
 # Awesome Standalones [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **64** awesome framework-agnostic standalone web components
+> A curated list of **65** awesome framework-agnostic standalone web components
 
 ## Element Extensions
 
@@ -70,6 +70,7 @@ Web Components that are, or can be used with, media of any kind.
 - [`<mastodon-post>`](https://darn.es/mastodon-post-web-component)
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer)
 - [`<pinch-zoom>`](https://github.com/GoogleChromeLabs/pinch-zoom)
+- [`<track-list>`](https://mirisuzanne.github.io/track-list/demo.html)
 - [`<two-up>`](https://github.com/GoogleChromeLabs/two-up)
 - [`<youtube-player>`](https://youtube-player.alanwsmith.com/)
 
