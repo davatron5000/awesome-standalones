@@ -1,6 +1,6 @@
 # Awesome Standalones [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **60** awesome framework-agnostic standalone web components
+> A curated list of **65** awesome framework-agnostic standalone web components
 
 ## Element Extensions
 
@@ -40,14 +40,17 @@ Web Components that are, or can be used with, form submissions.
 - [`<input-knob>`](https://github.com/GoogleChromeLabs/input-knob)
 - [`<range-slider>`](https://github.com/andreruffert/range-slider-element)
 - [`<show-password-toggle>`](https://github.com/sunnywalker/show-password-toggle)
+- [`<toggle-categories>`](https://codepen.io/nonsalant/pen/OPJLJoL)
 - [`<typesense-minibar>`](https://jquery.github.io/typesense-minibar/demo/)
 
 ## Utility Elements
 
 Useful little Web Components.
 
+- [`<browser-support>`](https://oddbird.github.io/browser-support/)
 - [`<clipboard-copy>`](https://github.com/github/clipboard-copy-element)
 - [`<duration-property>`](https://darn.es/duration-property-web-component)
+- [`<filter->`](https://github.com/sakamies/filter-element)
 - [`<is-playing>`](https://darn.es/is-playing-web-component)
 - [`<live-filter>`](https://darn.es/live-filter-web-component)
 - [`<log-form>`](https://github.com/knowler/log-form-element)
@@ -67,6 +70,7 @@ Web Components that are, or can be used with, media of any kind.
 - [`<mastodon-post>`](https://darn.es/mastodon-post-web-component)
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer)
 - [`<pinch-zoom>`](https://github.com/GoogleChromeLabs/pinch-zoom)
+- [`<track-list>`](https://mirisuzanne.github.io/track-list/demo.html)
 - [`<two-up>`](https://github.com/GoogleChromeLabs/two-up)
 - [`<youtube-player>`](https://youtube-player.alanwsmith.com/)
 
@@ -94,6 +98,7 @@ Frequently-solved problems in web component form.
 
 ## Novelty Elements
 
+- [`<admin-bar>`](https://wbrowar.com/web-components/admin-bar-component)
 - [`<chess-board>`](https://justinfagnani.github.io/chessboard-element/)
 - [`<contrast-details>`](https://darn.es/contrast-details-web-component)
 - [`<plucky-underline>`](https://noahliebman.net/projects/plucky-underline/)

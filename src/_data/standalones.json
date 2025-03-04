@@ -368,6 +368,43 @@
     "snippet": "<print-button print-target='.element-to-print'>Print</print-button>"
   },
   {
+    "name": "toggle-categories",
+    "category": "forms",
+    "repo": "https://github.com/nonsalant/toggle-categories",
+    "url": "https://codepen.io/nonsalant/pen/OPJLJoL",
+    "snippet": "<toggle-categories> <ul><li> <span>Category Name</span> <ul><li><label><input type=checkbox>Item</label></li></ul> </li></ul> </toggle-categories>"
+  },
+  {
+    "name": "filter-",
+    "category": "utilities",
+    "repo": "https://github.com/sakamies/filter-element",
+    "snippet": "<form><input type='search'><filter->Elements to filter here</filter-></form>"
+  },
+  {
+    "name": "admin-bar",
+    "category": "novelty",
+    "repo": "https://github.com/wbrowar/admin-bar-component",
+    "script": "npm install admin-bar-component",
+    "snippet": "<admin-bar show-greeting show-environment show-logout><admin-bar-button button-href='#'>Link</admin-bar-button></admin-bar>",
+    "url": "https://wbrowar.com/web-components/admin-bar-component"
+  },
+  {
+    "name": "browser-support",
+    "category": "utilities",
+    "repo": "https://github.com/oddbird/browser-support",
+    "url": "https://oddbird.github.io/browser-support/",
+    "script": "npm install @oddbird/browser-support",
+    "snippet": "<browser-support><a href='[feature-link]'>Browser support for [feature]</a></browser-support>"
+  },
+  {
+    "name": "track-list",
+    "category": "media",
+    "repo": "https://github.com/mirisuzanne/track-list",
+    "url": "https://mirisuzanne.github.io/track-list/demo.html",
+    "script": "npm install @terriblemia/track-list",
+    "snippet": "<track-list><ol slot='tracks'><li><audio controls src='…'></audio></li><li><audio controls src='…'></audio></li></ol></track-list>"
+  },
+  {
     "name": "slide-deck",
     "category": "utilities",
     "repo": "https://github.com/oddbird/slide-deck",
