@@ -374,9 +374,18 @@
     "url": "https://codepen.io/nonsalant/pen/OPJLJoL",
     "snippet": "<toggle-categories> <ul><li> <span>Category Name</span> <ul><li><label><input type=checkbox>Item</label></li></ul> </li></ul> </toggle-categories>"
   },
+  {
     "name": "filter-",
     "category": "utilities",
     "repo": "https://github.com/sakamies/filter-element",
     "snippet": "<form><input type='search'><filter->Elements to filter here</filter-></form>"
+  },
+  {
+    "name": "admin-bar",
+    "category": "novelty",
+    "repo": "https://github.com/wbrowar/admin-bar-component",
+    "script": "npm install admin-bar-component",
+    "snippet": "<admin-bar show-greeting show-environment show-logout><admin-bar-button button-href='#'>Link</admin-bar-button></admin-bar>",
+    "url": "https://wbrowar.com/web-components/admin-bar-component"
   }
 ]
