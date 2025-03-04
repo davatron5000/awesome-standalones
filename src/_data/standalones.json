@@ -373,5 +373,10 @@
     "repo": "https://github.com/nonsalant/toggle-categories",
     "url": "https://codepen.io/nonsalant/pen/OPJLJoL",
     "snippet": "<toggle-categories> <ul><li> <span>Category Name</span> <ul><li><label><input type=checkbox>Item</label></li></ul> </li></ul> </toggle-categories>"
+  },
+    "name": "filter-",
+    "category": "utilities",
+    "repo": "https://github.com/sakamies/filter-element",
+    "snippet": "<form><input type='search'><filter->Elements to filter here</filter-></form>"
   }
 ]
